@@ -1,9 +1,9 @@
-# Package name
+# Tools of Thought
 <pre>
-  pip install package-name
+  pip install tools-of-thought
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import tools_of_thought
 ```
